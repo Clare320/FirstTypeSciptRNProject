@@ -38,6 +38,14 @@
 		2DF0FFEE2056DD460020B375 /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3EA31DF850E9000B6D8A /* libReact.a */; };
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
 		ADBDB9381DFEBF1600ED6528 /* libRCTBlob.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ADBDB9271DFEBF0700ED6528 /* libRCTBlob.a */; };
+		BC73AF0F21B3B750008DAE66 /* libcxxreact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3EA91DF850E9000B6D8A /* libcxxreact.a */; };
+		BC73AF1121B3B750008DAE66 /* libdouble-conversion.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2DF0FFE72056DD460020B375 /* libdouble-conversion.a */; };
+		BC73AF1321B3B750008DAE66 /* libfishhook.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2D16E6841FA4F8DC00B85C8A /* libfishhook.a */; };
+		BC73AF1421B3B750008DAE66 /* libjschelpers.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3EAD1DF850E9000B6D8A /* libjschelpers.a */; };
+		BC73AF1521B3B750008DAE66 /* libjsinspector.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2DF0FFDF2056DD460020B375 /* libjsinspector.a */; };
+		BC73AF1621B3B750008DAE66 /* libprivatedata.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2DF0FFEB2056DD460020B375 /* libprivatedata.a */; };
+		BC73AF1721B3B750008DAE66 /* libthird-party.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2DF0FFE32056DD460020B375 /* libthird-party.a */; };
+		BC73AF1821B3B750008DAE66 /* libyoga.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3EA51DF850E9000B6D8A /* libyoga.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -358,6 +366,14 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BC73AF0F21B3B750008DAE66 /* libcxxreact.a in Frameworks */,
+				BC73AF1121B3B750008DAE66 /* libdouble-conversion.a in Frameworks */,
+				BC73AF1321B3B750008DAE66 /* libfishhook.a in Frameworks */,
+				BC73AF1421B3B750008DAE66 /* libjschelpers.a in Frameworks */,
+				BC73AF1521B3B750008DAE66 /* libjsinspector.a in Frameworks */,
+				BC73AF1621B3B750008DAE66 /* libprivatedata.a in Frameworks */,
+				BC73AF1721B3B750008DAE66 /* libthird-party.a in Frameworks */,
+				BC73AF1821B3B750008DAE66 /* libyoga.a in Frameworks */,
 				ADBDB9381DFEBF1600ED6528 /* libRCTBlob.a in Frameworks */,
 				11D1A2F320CAFA9E000508D9 /* libRCTAnimation.a in Frameworks */,
 				146834051AC3E58100842450 /* libReact.a in Frameworks */,

@@ -563,10 +563,6 @@
     lodash "^4.17.10"
     to-fast-properties "^2.0.0"
 
-"@types/jest@^23.3.9":
-  version "23.3.9"
-  resolved "https://registry.npmjs.org/@types/jest/-/jest-23.3.9.tgz#c16b55186ee73ae65e001fbee69d392c51337ad1"
-
 "@types/prop-types@*":
   version "15.5.6"
   resolved "https://registry.npmjs.org/@types/prop-types/-/prop-types-15.5.6.tgz#9c03d3fed70a8d517c191b7734da2879b50ca26c"
@@ -576,12 +572,6 @@
   resolved "https://registry.npmjs.org/@types/react-native/-/react-native-0.57.13.tgz#02dc7b8f5b291b290e047fb0da3ceaa27d7c71b9"
   dependencies:
     "@types/prop-types" "*"
-    "@types/react" "*"
-
-"@types/react-test-renderer@^16.0.3":
-  version "16.0.3"
-  resolved "https://registry.npmjs.org/@types/react-test-renderer/-/react-test-renderer-16.0.3.tgz#cce5c983d66cc5c3582e7c2f44b274ab635a8acc"
-  dependencies:
     "@types/react" "*"
 
 "@types/react@*", "@types/react@^16.7.7":
